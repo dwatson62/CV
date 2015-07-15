@@ -1,4 +1,4 @@
-## Your Name
+## Daryl Watson
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (27/04/15 to 17/07/15)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Luton Sixth Form College (09/04 to 06/06)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A Level Maths with Statistics (B)
+- A Level Music (B)
+- A Level English Literature (C)
+- AS Level Computing (B)
 
 #### Any other qualifications
 
+- 7 GCSEs, including Maths and English Language
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Mandarin Oriental Hotel Group** (10/13 to 04/15)    
+*Cocktail Bartender*  
+**Burnham Beeches Hotel** (02/12 to 12/12)   
+*Food & Beverage Assistant*  
