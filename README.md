@@ -1,6 +1,6 @@
 ## Daryl Watson
 
-Former cocktail bartender with a new passion for code, I am seeking a change into a more fulfilling and rewarding career. I have recently completed the Makers Academy coding bootcamp. Looking to pursue a career with a forward thinking company to help me learn and improve as a developer.
+Former cocktail bartender with a new passion for code, I am seeking a change into a more fulfilling and rewarding career. Determined to make a fresh start, I attended and completed the highly selective Makers Academy coding bootcamp. Currently I am looking to pursue a new career with a forward thinking company who I can offer value to, and to help me learn and grow as a junior developer.
 
 ## Skills
 
@@ -25,6 +25,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (27/04/15 to 17/07/15)
 
+Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, so much so that I stay on as an Alumni Helper to assist new students in their learning.
+
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
@@ -39,9 +41,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A Level English Literature (C)
 - AS Level Computing (B)
 
+I studied AS Level Computing for 1 year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed, and received near full marks for my final project. However, the theory side did not interest me at that point in my life, and did not pursue the course for a second year.
+
 #### Any other qualifications
 
-- 7 GCSEs, including Maths and English Language
+- 7 GCSEs, including ICT (A), Maths (B) and English Language (B)
 
 ## Experience
 
@@ -49,3 +53,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Cocktail Bartender*  
 **Burnham Beeches Hotel** (02/12 to 12/12)   
 *Food & Beverage Assistant*  
+**Overseas work and travel in New Zealand** (01/11 to 11/11)
+*Bartender in Auckland and Dunedin*
+*Vineyard worker in Marlborough*
+**Overseas work and travel in Australia** (01/10 to 01/11)
+*Bartender and Cleaner in Melbourne*
