@@ -2,6 +2,33 @@
 
 Former cocktail bartender with a new passion for code, I am seeking a change into a more fulfilling and rewarding career. Determined to make a fresh start, I attended and completed the highly selective Makers Academy coding bootcamp. Currently I am looking to pursue a new career with a forward thinking company who I can offer value to, and to help me learn and grow as a junior developer.
 
+## Favourite Technologies
+
+#### Ruby
+
+Ruby was the second programming language I learnt (after Visual Basic), and my favourite so far, due to its ability to read like English, elegance and for the range of methods available. I particularly enjoy the beauty of using the Recursion technique to solve problems, such as this one from codewars: (http://www.codewars.com/kata/551186edce486caa61000f5c)
+
+~~~
+def count_squares(n)
+  return 1 if n == 1
+  (n * n) + count_squares(n - 1)
+end
+~~~
+
+## Recent Projects
+
+##### Roulette (https://github.com/dwatson62/roulette)
+
+- Solo project created after Makers Academy, to practice Node JS skills
+
+##### Movie Snaps (https://github.com/dwatson62/Movie-Snaps)
+
+- Final project for Makers Academy, created in 2 weeks with a team of 6
+
+##### Guess Who (https://github.com/dwatson62/Guess-Who)
+
+- Solo project created midway through Makers Academy, to practice Ruby skills and database asssociations
+
 ## Skills
 
 #### This Skill
@@ -47,14 +74,22 @@ I studied AS Level Computing for 1 year, with the language taught being Visual B
 
 - 7 GCSEs, including ICT (A), Maths (B) and English Language (B)
 
-## Experience
+## Employment
 
-**Mandarin Oriental Hotel Group** (10/13 to 04/15)    
+**Mandarin Oriental Hotel Group** (10/13 to 04/15) 
+
 *Cocktail Bartender*  
+
 **Burnham Beeches Hotel** (02/12 to 12/12)   
+
 *Food & Beverage Assistant*  
+
 **Overseas work and travel in New Zealand** (01/11 to 11/11)
+
 *Bartender in Auckland and Dunedin*
+
 *Vineyard worker in Marlborough*
+
 **Overseas work and travel in Australia** (01/10 to 01/11)
+
 *Bartender and Cleaner in Melbourne*
