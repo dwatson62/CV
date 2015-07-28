@@ -1,6 +1,6 @@
 ## Daryl Watson
 
-Former cocktail bartender with a new passion for code, I am seeking a change into a more fulfilling and rewarding career. Determined to make a fresh start, I attended and completed the highly selective Makers Academy coding bootcamp. Currently I am looking to pursue a new career with a forward thinking company who I can offer value to, and to help me learn and grow as a junior developer.
+Former cocktail bartender with a new passion for code, I am seeking a change into a more fulfilling and stimulating career. Determined to make a fresh start, I attended and completed the highly selective Makers Academy coding bootcamp. Currently I am looking to pursue a new career with a forward thinking company who I can offer value to, and to help me learn and grow as a junior developer.
 
 ## Favourite Technologies
 
@@ -15,11 +15,15 @@ def count_squares(n)
 end
 ~~~
 
+#### Angular
+
+Angular was the first Javascript framework I learnt, and what I am currently practising. The more I use Angular the more I enjoy using it, and can appreciate the simplicity of an SPA.
+
 ## Recent Projects
 
 ##### Roulette (https://github.com/dwatson62/roulette)
 
-- Solo project created after Makers Academy, to practice Node JS skills
+- Solo project created after Makers Academy, to practice Angular skills
 
 ##### Movie Snaps (https://github.com/dwatson62/Movie-Snaps)
 
@@ -31,15 +35,13 @@ end
 
 ## Skills
 
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Fast Learner
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Team Player
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -52,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (27/04/15 to 17/07/15)
 
-Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, so much so that I stay on as an Alumni Helper to assist new students in their learning.
+Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about software craftmanship, and to take pride in well-designed code.I thoroughly enjoyed my time at Makers, so much so that I stay on as an Alumni Helper to assist new students in their learning.
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
