@@ -58,11 +58,12 @@ I studied AS Level Computing for 1 year, with the language taught being Visual B
 
 ## Employment
 
-**Mandarin Oriental Hotel Group** (10/13 to 04/15) 
+**Mandarin Oriental Hotel Group, London, UK** (10/13 to 04/15) 
 
 *Cocktail Bartender*  
+- Fast paced cocktail environment, upholding impeccable standards and minute attention to detail. Took great pride in my cocktail creations.
 
-**Burnham Beeches Hotel** (02/12 to 12/12)   
+**Burnham Beeches Hotel, Bucks, UK** (02/12 to 12/12)   
 
 *Food & Beverage Assistant*  
 
