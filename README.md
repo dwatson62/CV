@@ -1,12 +1,12 @@
 ## Daryl Watson
 
-Former cocktail bartender with a new passion for code, I am seeking a change into a more fulfilling and stimulating career. Determined to make a fresh start, I attended and completed the highly selective Makers Academy coding bootcamp. Currently I am looking to pursue a new career with a forward thinking company who I can offer value to, and to help me learn and grow as a junior developer.
+Enthusiastic new coder eagerly looking for a stimulating and rewarding career in technology. I have recently completed the Makers Academy coding bootcamp and now assist other students with their coding. Currently I am looking to pursue a position with a forward thinking company who I can offer value to, and to help me learn and grow as a junior developer.
 
 ## Favourite Technologies
 
 #### Ruby
 
-Ruby was the second programming language I learnt (after Visual Basic), and my favourite so far, due to its ability to read like English, elegance and for the range of methods available. I particularly enjoy the beauty of using the Recursion technique to solve problems, such as this one from codewars: (http://www.codewars.com/kata/551186edce486caa61000f5c)
+Ruby was the second programming language I learnt (after Visual Basic), and my favourite so far, due to its ability to read like English, elegance and for the range of methods available. I particularly enjoy the beauty of using recursion with Ruby to solve problems, such as this one from codewars: (http://www.codewars.com/kata/551186edce486caa61000f5c)
 
 ~~~
 def count_squares(n)
@@ -35,33 +35,13 @@ Angular was the first Javascript framework I learnt, and what I am currently pra
 
 ## Skills
 
-#### Fast Learner
-
-- Experience
-- Achievements
-- Evidence
-
-#### Team Player
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I asked my fellow students what their opinion of me was, and here are theire responses
 
 ## Education
 
 #### Makers Academy (27/04/15 to 17/07/15)
 
-Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about software craftmanship, and to take pride in well-designed code.I thoroughly enjoyed my time at Makers, so much so that I stay on as an Alumni Helper to assist new students in their learning.
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, so much so that I have stayed on as an Alumni Helper to assist new students in their learning.
 
 #### Luton Sixth Form College (09/04 to 06/06)
 
@@ -70,7 +50,7 @@ Makers Academy is a highly selective coding bootcamp that accepts only the top t
 - A Level English Literature (C)
 - AS Level Computing (B)
 
-I studied AS Level Computing for 1 year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed, and received near full marks for my final project. However, the theory side did not interest me at that point in my life, and did not pursue the course for a second year.
+I studied AS Level Computing for 1 year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed, and received near full marks for my final project. However, the theory side did not interest me at that point in my life, so I did not pursue the course for a second year.
 
 #### Any other qualifications
 
