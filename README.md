@@ -35,7 +35,19 @@ Angular was the first Javascript framework I learnt, and what I am currently pra
 
 ## Skills
 
-I asked my fellow students what their opinion of me was, and here are their responses
+I asked my fellow students their opinion of me, these were among their responses:
+
+#### Helpful and a good comunicator
+
+From pair programming and helping others with their code problems, I am good at explaining my points in an easily understable way, and have a helpful disposition when talking with others.
+
+#### Fast Learner
+
+I am told I am very a fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. Also, I enjoy setting myself new challenges once I become familiar with a new technology (such as my Roulette project above) which helps me to learn much faster.
+
+#### Problem solving
+
+I can focus on a problem and am determined to see it through until I find the solution. In particular when helping other students, I can quickly spot the cause of their issue and help to fix.
 
 ## Education
 
