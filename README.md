@@ -21,7 +21,7 @@ Angular was the first Javascript framework I learnt, and what I am currently pra
  
 ## Recent Projects
 
-##### Roulette (https://github.com/dwatson62/roulette)
+##### Daryl's Palace (https://github.com/dwatson62/daryls_palace)
 
 - Solo project created after Makers Academy to practice Angular.
 
