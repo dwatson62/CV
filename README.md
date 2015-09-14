@@ -31,7 +31,7 @@ Angular was the first Javascript framework I learnt, and what I am currently pra
 
 ##### Guess Who (https://github.com/dwatson62/Guess-Who)
 
-- Solo project created midway through Makers Academy to practice Sinatra, Ruby and database asssociations.
+- Solo project created midway through Makers Academy to practice Sinatra, Ruby and database associations.
 
 ## Skills
 
@@ -53,7 +53,7 @@ I can focus on a problem and am determined to see it through until I find the so
 
 #### Makers Academy (27/04/15 to 17/07/15)
 
-Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about best practices in software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, and have learnt so much. Currently I am staying on temporarily as an alumni helper to help new students with their coding, whilst continuing to learn and practice my own skills.
+Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about best practices in software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, and have learnt so much. After finishing my course, I stayed on an extra six weeks as an alumni helper, to improve my own understanding and to assist new students with their coding.
 
 #### Luton Sixth Form College (09/04 to 06/06)
 
