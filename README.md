@@ -1,6 +1,6 @@
 ## Daryl Watson
 
-Highly enthusiastic new coder eagerly looking for a stimulating and rewarding career in technology. Driven by my newfound passion, I quit my previous career in order to complete the Makers Academy coding bootcamp and to begin a new adventure. I love to code and discover new possiblities, and I am now pursuing a position in a company where I can continue to learn and grow as a junior developer, and with whom I can offer my upmost to.
+Highly enthusiastic new coder eagerly looking for a stimulating and rewarding career in technology. Driven by my newfound passion, I quit my previous career in order to complete the Makers Academy coding bootcamp and to begin a new adventure. I love to code and discover new possibilities, and I am now pursuing a position in a company where I can continue to learn and grow as a junior developer, and with whom I can offer my upmost to.
 
 ## Favourite Technologies
 
@@ -17,13 +17,13 @@ end
 
 #### Angular
 
-Angular was the first Javascript framework I learnt, and what I am currently practising. The more I use Angular the more I enjoy using it, and can appreciate the simplicity of an SPA. I'm very interested in learning more about the MEAN stack, because I love the idea of being able to use Javascript on the server side, and to directly link that with the front end.
+Angular was the first Javascript framework I learnt, and remains my favourite for creating SPAs. The more I use Angular the more I enjoy using it, and can appreciate the simplicity of an SPA. I'm very interested in learning more about the MEAN stack, because I love the idea of being able to use Javascript on the server side, and to directly link that with the front end.
  
 ## Recent Projects
 
 ##### Daryl's Palace (https://github.com/dwatson62/daryls_palace)
 
-- Solo project created after Makers Academy to practice Angular.
+- Solo project created after Makers Academy to create casino games in Angular.
 
 ##### Movie Snaps (https://github.com/dwatson62/Movie-Snaps)
 
@@ -37,13 +37,13 @@ Angular was the first Javascript framework I learnt, and what I am currently pra
 
 I asked my fellow students their opinion of me, these were among their responses:
 
-#### Helpful and a good comunicator
+#### Helpful and a good communicator
 
-From pair programming and helping others with their code problems, I am good at explaining my points in an easily understable way, and have a helpful disposition when talking with others.
+From pair programming and helping others with their code problems, I am good at explaining my points in an easily understandable way, and have a helpful disposition when talking with others.
 
 #### Fast Learner
 
-I am told I am very a fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. Also, I enjoy setting myself new challenges once I become familiar with a new technology (such as my Roulette project above) which helps me to learn much faster.
+I am told I am very a fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. Also, I enjoy setting myself new challenges once I become familiar with a new technology (such as my casino project above) which helps me to learn much faster.
 
 #### Problem solving
 
