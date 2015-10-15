@@ -43,7 +43,7 @@ From pair programming and helping others with their code problems, I am good at 
 
 #### Fast Learner
 
-I am told I am very a fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. Also, I enjoy setting myself new challenges once I become familiar with a new technology (such as my casino project above) which helps me to learn much faster.
+I am told I am a very fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. Also, I enjoy setting myself new challenges once I become familiar with a new technology (such as my casino project above) which helps me to learn much faster.
 
 #### Problem solving
 
@@ -62,7 +62,7 @@ Makers Academy is a highly selective coding bootcamp that accepts only the top t
 - A Level English Literature (C)
 - AS Level Computing (B)
 
-I studied AS Level Computing for 1 year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed, and received near full marks for my final project. However, the theory side did not interest me at that point in my life, so I did not pursue the course for a second year.
+I studied AS Level Computing for 1 year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed and I received 86/90 for my final project. However, the theory side did not interest me at that point in my life, so I did not pursue the course for a second year.
 
 #### Other qualifications
 
