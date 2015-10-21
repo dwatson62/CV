@@ -1,25 +1,12 @@
 ## Daryl Watson
 
-Highly enthusiastic new coder eagerly looking for a stimulating and rewarding career in technology. Driven by my newfound passion, I quit my previous career in order to complete the Makers Academy coding bootcamp and to begin a new adventure. I love to code and discover new possibilities, and I am now pursuing a position in a company where I can continue to learn and grow as a junior developer, and with whom I can offer my upmost to.
+Highly enthusiastic new developer eagerly looking for a stimulating and rewarding career in technology. Driven by my newfound passion, I quit my previous career in order to complete the Makers Academy coding bootcamp and to begin a new adventure. I love to code and discover new possibilities and have recently signed up to Upcase by Thoughbot to further my studies. Now I am pursuing a position in a company where I can continue to learn and grow as a junior developer, and with whom I can offer my upmost to.
 
-## Favourite Technologies
-
-#### Ruby
-
-Ruby was the second programming language I learnt, and my favourite so far, due to its ability to read like English, elegance and for the range of methods available. I particularly enjoy the beauty of using recursion with Ruby to solve problems, such as this one from codewars: (http://www.codewars.com/kata/551186edce486caa61000f5c)
-
-~~~
-def count_squares(n)
-  return 1 if n == 1
-  (n * n) + count_squares(n - 1)
-end
-~~~
-
-#### Angular
-
-Angular was the first Javascript framework I learnt, and remains my favourite for creating SPAs. The more I use Angular the more I enjoy using it, and can appreciate the simplicity of an SPA. I'm very interested in learning more about the MEAN stack, because I love the idea of being able to use Javascript on the server side, and to directly link that with the front end.
- 
 ## Recent Projects
+
+##### Scrabble (https://github.com/dwatson62/scrabble)
+
+- Further Angular practice in creating 1 player Scrabble game.
 
 ##### Daryl's Palace (https://github.com/dwatson62/daryls_palace)
 
@@ -39,21 +26,21 @@ I asked my fellow students their opinion of me, these were among their responses
 
 #### Helpful and a good communicator
 
-From pair programming and helping others with their code problems, I am good at explaining my points in an easily understandable way, and have a helpful disposition when talking with others.
+With experience of pair programming and helping others with their code problems, I am good at explaining my points in an easily understandable way, and have a helpful disposition when talking with others. Also, in my previous position as a hotel bartender, my role demanded excellent levels of communication between colleagues. Passing on correct and specific information quickly, such as customer allergies, preferences and payment, was essential to the business and for providing a five star service.
 
 #### Fast Learner
 
-I am told I am a very fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. Also, I enjoy setting myself new challenges once I become familiar with a new technology (such as my casino project above) which helps me to learn much faster.
+I am told I am a very fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. The best way I find to learn is by creating new projects with a technology. For example in my casino project above, I needed to learn how to create my own RESTful API using MongoDB to provide data about the players in the game, such as their name and current balance, and how to utilize this so the game can automatically update a player's balance after each round of betting.
 
 #### Problem solving
 
-I can focus on a problem and am determined to see it through until I find the solution. In particular when helping other students, I can quickly spot the cause of their issue and help to fix.
+I enjoy solving problems and have developed a slight addiction to codewars with more than 250 points. Also, from my previous bartending role, I would be set a challenge of creating new interesting cocktails with particular ingredients, or for a particular event. For example, as it was a Chinese based hotel chain, I needed to create a cocktail to celebrate Chinese New Year using ingredients traditionally associated with it. I was also asked to create a non-alcoholic cocktail to be used as a welcome drink for hotel guests, with ingredients reflecting both Asian and British culture.
 
 ## Education
 
 #### Makers Academy (27/04/15 to 17/07/15)
 
-Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TTD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about best practices in software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, and have learnt so much. After finishing my course, I stayed on an extra six weeks as an alumni helper, to improve my own understanding and to assist new students with their coding.
+Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TDD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about best practices in software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, and have learnt so much. After finishing my course, I stayed on an extra six weeks as an alumni helper, to improve my own understanding and to assist new students with their coding.
 
 #### Luton Sixth Form College (09/04 to 06/06)
 
@@ -62,7 +49,7 @@ Makers Academy is a highly selective coding bootcamp that accepts only the top t
 - A Level English Literature (C)
 - AS Level Computing (B)
 
-I studied AS Level Computing for 1 year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed and I received 86/90 for my final project. However, the theory side did not interest me at that point in my life, so I did not pursue the course for a second year.
+I studied AS Level Computing for 1 year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed and I received 86/90 for my final project. However, the theory side did not interest me at that point in my life, so I concentrated on other subjects for the second year.
 
 #### Other qualifications
 
@@ -73,13 +60,16 @@ I studied AS Level Computing for 1 year, with the language taught being Visual B
 **Mandarin Oriental Hotel Group, London, UK** (10/13 to 04/15) 
 
 *Cocktail Bartender*  
-- Fast paced cocktail environment in a 5 star hotel, upholding impeccable standards and requiring obsessive attention to detail. Took great pride in my cocktail creations.
+- Fast paced cocktail environment in one of London's top 5 star hotels
+- Created popular cocktails and helped design the cocktail menu
+- Established recipes and provided cocktail training for all staff, so the entire team followed a consistent high standard
+- Responsible for ordering new stock cost effectively
 
 **Burnham Beeches Hotel, Bucks, UK** (02/12 to 12/12)   
 
 *Food & Beverage Assistant*  
 
-- Country hotel, where being adaptable and flexible to different scenarios and jobs was necessary.
+- Country hotel, required to work independently and within a team for bars, weddings and conferences
 
 **Overseas work and travel in Australia and New Zealand** (01/10 to 11/11)
 
