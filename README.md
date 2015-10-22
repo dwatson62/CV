@@ -1,16 +1,16 @@
 ## Daryl Watson
 
-Highly enthusiastic new developer eagerly looking for a stimulating and rewarding career in technology. Driven by my newfound passion, I quit my previous career in order to complete the Makers Academy coding bootcamp and to begin a new adventure. I love to code and discover new possibilities and have recently signed up to Upcase by Thoughbot to further my studies. Now I am pursuing a position in a company where I can continue to learn and grow as a junior developer, and with whom I can offer my upmost to.
+Highly enthusiastic new developer eagerly looking for a stimulating and rewarding career in technology. Driven by my newfound passion, I quit my previous career in order to complete the Makers Academy coding bootcamp and to begin a new adventure. I love to code and discover new possibilities and have recently signed up to Upcase by Thoughtbot to further my studies. Now I am pursuing a position in a company where I can continue to learn and grow as a junior developer, and with whom I can offer my upmost to.
 
 ## Recent Projects
 
 ##### Scrabble (https://github.com/dwatson62/scrabble)
 
-- Further Angular practice in creating 1 player Scrabble game.
+- Practicing and improving my Angular skills by creating a 1 player Scrabble game.
 
 ##### Daryl's Palace (https://github.com/dwatson62/daryls_palace)
 
-- Solo project created after Makers Academy to create casino games in Angular.
+- Solo project created after Makers Academy to create casino games using the MEAN stack.
 
 ##### Movie Snaps (https://github.com/dwatson62/Movie-Snaps)
 
@@ -30,17 +30,17 @@ With experience of pair programming and helping others with their code problems,
 
 #### Fast Learner
 
-I am told I am a very fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. The best way I find to learn is by creating new projects with a technology. For example in my casino project above, I needed to learn how to create my own RESTful API using MongoDB to provide data about the players in the game, such as their name and current balance, and how to utilize this so the game can automatically update a player's balance after each round of betting.
+I am told I am a very fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. The best way I find to learn is by creating new projects with a technology. For example in my casino project above, I needed to learn how to create my own RESTful API using MongoDB to provide data about the players in the game, such as their name and current balance, and how to utilise this so the game can automatically update a player's balance after each round of betting.
 
 #### Problem solving
 
-I enjoy solving problems and have developed a slight addiction to codewars with more than 250 points. Also, from my previous bartending role, I would be set a challenge of creating new interesting cocktails with particular ingredients, or for a particular event. For example, as it was a Chinese based hotel chain, I needed to create a cocktail to celebrate Chinese New Year using ingredients traditionally associated with it. I was also asked to create a non-alcoholic cocktail to be used as a welcome drink for hotel guests, with ingredients reflecting both Asian and British culture.
+I enjoy solving problems and have developed a slight addiction to CodeWars with more than 250 points. Also, from my previous bartending role, I would be set a challenge of creating new interesting cocktails with particular ingredients, or for a particular event. For example, as it was a Chinese based hotel chain, I needed to create a cocktail to celebrate Chinese New Year using ingredients traditionally associated with it. I was also asked to create a non-alcoholic cocktail to be used as a welcome drink for hotel guests, with ingredients reflecting both Asian and British culture.
 
 ## Education
 
 #### Makers Academy (27/04/15 to 17/07/15)
 
-Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TDD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about best practices in software craftmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, and have learnt so much. After finishing my course, I stayed on an extra six weeks as an alumni helper, to improve my own understanding and to assist new students with their coding.
+Makers Academy is a highly selective coding bootcamp that accepts only the top ten percent of applicants. For 12 weeks, the course focuses heavily on programming practices such as TDD, pair-programming and problem solving, whilst teaching a variety of technologies. This experience has nurtured my passion for code and taught me about best practices in software craftsmanship, and to take pride in well-designed code. I thoroughly enjoyed my time at Makers, and have learnt so much. After finishing my course, I stayed on an extra six weeks as an alumni helper, to improve my own understanding and to assist new students with their coding.
 
 #### Luton Sixth Form College (09/04 to 06/06)
 
@@ -69,7 +69,8 @@ I studied AS Level Computing for 1 year, with the language taught being Visual B
 
 *Food & Beverage Assistant*  
 
-- Country hotel, required to work independently and within a team for bars, weddings and conferences
+- Required to work within a team and being adaptable to different scenarios, such as bars, weddings and conferences
+- Business requirements at times meant shifts of up to 15 hours, where keeping concentration and energy levels high was important
 
 **Overseas work and travel in Australia and New Zealand** (01/10 to 11/11)
 
