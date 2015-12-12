@@ -2,6 +2,27 @@
 
 Highly enthusiastic new developer beginning a new career in technology. After success at studying Computing at college, I travelled the world as a cocktail bartender to gain valuable life experience. Ready to return to my passion for coding, I have recently completed the Makers Academy coding bootcamp and have signed up to Upcase by Thoughtbot. Currently I am employed as a junior developer at Tifosy, a football crowdfunding platform, and continuing to study in my free time.
 
+## Recent Employment
+
+**Tifosy, London, UK** (11/14 to present) 
+
+*Junior Web Developer* 
+
+- Junior web developer at a startup company delivering crowdfunding solutions for football clubs
+- Full stack role, working with Ruby on Rails, BackboneJS, jQuery, Scss, PostgreSQL, Rspec, Capybara, CircleCI and Heroku
+- Following best practices: TDD, Git, Continuous Integration, linting software, clean code
+- Responsible for maintaining the website, improving design, fixing bugs and building new features
+- Built major feature allowing users to become certified investors in a club
+
+**Mandarin Oriental Hotel Group, London, UK** (10/13 to 04/15) 
+
+*Cocktail Bartender*  
+- Fast paced cocktail environment in one of London's top 5 star hotels
+- Working to strict standards and deadlines. No matter how busy the evening, all drinks must be served within five minutes to impeccable standards
+- Created popular cocktails and helped design the cocktail menu
+- Established recipes and provided cocktail training for all staff, so the entire team followed a consistent high standard
+- Responsible for ordering new stock cost effectively
+
 ## Personal Projects
 
 ##### Scrabble (https://github.com/dwatson62/scrabble)
@@ -54,17 +75,6 @@ I studied AS Level Computing for one year, with the language taught being Visual
 #### Other qualifications
 
 - 7 GCSEs, including ICT (A), Maths (B) and English Language (B)
-
-## Recent Employment
-
-**Mandarin Oriental Hotel Group, London, UK** (10/13 to 04/15) 
-
-*Cocktail Bartender*  
-- Fast paced cocktail environment in one of London's top 5 star hotels
-- Working to strict standards and deadlines. No matter how busy the evening, all drinks must be served within five minutes to impeccable standards
-- Created popular cocktails and helped design the cocktail menu
-- Established recipes and provided cocktail training for all staff, so the entire team followed a consistent high standard
-- Responsible for ordering new stock cost effectively
 
 ## Travel
 
