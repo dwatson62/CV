@@ -1,8 +1,8 @@
 ## Daryl Watson
 
-Highly enthusiastic new developer eagerly looking for a stimulating and rewarding career in technology. After success at studying Computing at college, I travelled the world as a cocktail bartender to gain valuable life experience. Ready to return to my passion for coding, I have recently completed the Makers Academy coding bootcamp and have signed up to Upcase by Thoughtbot. Currently I am pursuing a position in a company where I can continue to learn and grow as a junior developer, and with whom I can offer my upmost to.
+Highly enthusiastic new developer beginning a new career in technology. After success at studying Computing at college, I travelled the world as a cocktail bartender to gain valuable life experience. Ready to return to my passion for coding, I have recently completed the Makers Academy coding bootcamp and have signed up to Upcase by Thoughtbot. Currently I am employed as a junior developer at Tifosy, a football crowdfunding platform, and continuing to study in my free time.
 
-## Recent Projects
+## Personal Projects
 
 ##### Scrabble (https://github.com/dwatson62/scrabble)
 
