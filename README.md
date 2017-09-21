@@ -1,22 +1,24 @@
 ## Daryl Watson
 
-Highly enthusiastic new developer beginning a new career in technology. After success at studying Computing at college, I travelled the world as a cocktail bartender to gain valuable life experience. Ready to return to my passion for coding, I have recently completed the Makers Academy coding bootcamp and have signed up to Upcase by Thoughtbot. Currently I am employed as a junior developer at Tifosy, a football crowdfunding platform, and continuing to study in my free time.
+Ambitious junior web developer of two years experience seeking next step of career and new challenge. Currently I am employed as a full stack Ruby on Rails developer for a successful crowdfunding startup. Prior to this, I was employed for almost ten years in the hospitality industry before graduating from the Makers Academy coding bootcamp.
 
 ## Recent Employment
 
-**Tifosy, London, UK** (11/14 to present) 
+**Tifosy, London, UK** (11/15 to present) 
 
 *Junior Web Developer* 
 
-- Junior web developer at a startup company delivering crowdfunding solutions for football clubs
+- Junior web developer at a startup company delivering reward based and financial crowdfunding solutions for sports clubs
 - Full stack role, working with Ruby on Rails, BackboneJS, jQuery, Scss, PostgreSQL, Rspec, Capybara, CircleCI and Heroku
-- Following best practices: TDD, Git, Continuous Integration, linting software, clean code
-- Responsible for maintaining the website, improving design, fixing bugs and building new features
-- Built major feature allowing users to become certified investors in a club
+- Following best practices: TDD, Git, CI, linting (rubocop, jslint), Google Page Speed Insights
+- Working closely with the CTO or independently on maintaining the website, improving design and performance, fixing bugs and building new features
+- Built major features including an admin interface, payment forms, investment payment forms and investor certification
+- Platform has generated more than £1.5m in crowdfunding using payment and investment features I have created during my employment
 
 **Mandarin Oriental Hotel Group, London, UK** (10/13 to 04/15) 
 
 *Cocktail Bartender*  
+
 - Fast paced cocktail environment in one of London's top 5 star hotels
 - Working to strict standards and deadlines. No matter how busy the evening, all drinks must be served within five minutes to impeccable standards
 - Created popular cocktails and helped design the cocktail menu
@@ -25,17 +27,18 @@ Highly enthusiastic new developer beginning a new career in technology. After su
 
 ## Personal Projects
 
-##### Scrabble (https://github.com/dwatson62/scrabble)
+##### Scrabble (https://github.com/dwatson62/scrabble-backbone)
 
-- Practicing and improving my Angular skills by creating Scrabble.
+- Improving my knowledge of BackboneJS by creating a simple two player interface for Scrabble
+- Second attempt after previous version using Angular (https://github.com/dwatson62/scrabble-backbone) shortly after graduating Makers Academy.
+
+##### Backchat (https://github.com/dwatson62/backchat)
+
+- Simple messaging app using Backbone and realtime notifications with Pusher.
 
 ##### Daryl's Palace (https://github.com/dwatson62/daryls_palace)
 
 - Solo project created after Makers Academy to create casino games using the MEAN stack.
-
-##### Movie Snaps (https://github.com/dwatson62/Movie-Snaps)
-
-- Final project for Makers Academy, created in two weeks with a team of six using Rails.
 
 ##### Guess Who (https://github.com/dwatson62/Guess-Who)
 
