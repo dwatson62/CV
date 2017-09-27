@@ -66,9 +66,9 @@ Makers Academy is a highly selective coding bootcamp that accepts only the top t
 
 #### Luton Sixth Form College (09/04 to 06/06)
 
-- A Level Maths with Statistics (B)
-- A Level Music (B)
-- A Level English Literature (C)
+- A Level Maths with Statistics (C)
+- A Level Music (C)
+- A Level English Literature (D)
 - AS Level Computing (B)
 
 I studied AS Level Computing for one year, with the language taught being Visual Basic. The coding side of the course I greatly enjoyed and I received 86/90 for my final project. However, the theory side did not interest me at that point in my life, so I concentrated on other subjects for the second year.
