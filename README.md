@@ -46,19 +46,17 @@ Ambitious junior web developer of two years experience seeking next step of care
 
 ## Skills
 
-I asked friends, colleagues and fellow students their opinion of me. These were among their responses:
+#### Enjoys learning new things
 
-#### Strong communicator
-
-In my previous position as a hotel bartender, my role demanded excellent levels of communication between colleagues. Passing on correct and specific information quickly, such as customer allergies, preferences and payment, was essential to the business and for providing a five star service. No matter how hectic or busy service was, correct and precise communication was vital.
-
-#### Fast Learner
-
-I am told I am a very fast learner when it comes to learning new languages and techniques, mainly because I am very experimental by nature and like to try new things. The best way I find to learn is by creating new projects with a technology. For example in my casino project above, I needed to learn how to create my own RESTful API using MongoDB to provide data about the players in the game, such as their name and current balance, and how to utilise this so the game can automatically update a player's balance after each round of betting.
+I relish the opportunity to learn and try new things, not just in programming but in all aspects of life. Aside from my current work requirements, when I have time to spare I have experimented with numerous different technologies, including Python, Haskell, React, Angular and Ionic. My ideal position would involve regularly experimenting with new languages and frameworks, as I believe a more diverse knowledge base makes for a more efficient problem solver. In addition, the best way I find to learn is by creating new projects with a technology. For example in my casino project above, I needed to learn how to create my own RESTful API using MongoDB to provide data about the players in the game, such as their name and current balance, and how to utilise this so the game can automatically update a player's balance after each round of betting.
 
 #### Problem solver
 
-I enjoy solving problems and have developed a slight addiction to CodeWars with more than 250 points. Also, from my previous bartending role, I would be set challenges of quickly creating new and interesting cocktails with particular ingredients, or for a particular event. For example, as it was a Chinese based hotel chain, I needed to create a cocktail to celebrate Chinese New Year using ingredients traditionally associated with it. I was also asked to create a non-alcoholic cocktail to be used as a welcome drink for hotel guests, with ingredients reflecting both Asian and British culture.
+I enjoy solving problems and have developed a slight addiction to CodeWars with more than 850 points. Creating my scrabble project above I found to be a highly enjoyable problem to solve (having made two different solutions). The main challenge in building scrabble is in knowing which letters and tiles are in play, and being able to calculate the correct ones in the correct order, sometimes with multiple words being played in multiple directions. I found the best way to solve this was by using a lot of recursion.
+
+#### Strong communicator
+
+I have experience of morning stand-ups and communicating clearly what I am working on each day, even to non-tech colleagues, and slack is an important part of our company workflow. In my previous career as a hotel bartender, my role demanded excellent levels of communication between colleagues. Passing on correct and specific information quickly, such as customer allergies, preferences and payment, was essential to the business and for providing a five star service. No matter how hectic or busy service was, correct and precise communication was vital. 
 
 ## Education
 
