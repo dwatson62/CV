@@ -1,6 +1,6 @@
 ## Daryl Watson
 
-Ambitious junior web developer of two years experience seeking next step of career and new challenge. Currently I am employed as a full stack Ruby on Rails developer for a successful crowdfunding startup. Prior to this, I was employed for almost ten years in the hospitality industry before graduating from the Makers Academy coding bootcamp.
+Ambitious junior web developer of two years experience. Currently I am employed as a full stack Ruby on Rails developer for a successful crowdfunding startup. Prior to this, I was employed for almost ten years in the hospitality industry before graduating from the Makers Academy coding bootcamp.
 
 ## Recent Employment
 
