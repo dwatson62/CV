@@ -1,6 +1,6 @@
 ## Daryl Watson
 
-Ambitious junior web developer of two years experience. Currently I am employed as a full stack Ruby on Rails developer for a successful crowdfunding startup. Prior to this, I was employed for almost ten years in the hospitality industry before graduating from the Makers Academy coding bootcamp.
+Following an education in music and maths with statistics, I began my career in the luxury hospitality industry before retraining as a coder at the prestigious Makers Academy in London, where I went on to assist other students as an alumni helper. Now a fully qualified full-stack developer, working for a successful sports finance startup, with three years experience in using Ruby on Rails, Javascript with Backbone and ES6, and PostgreSQL.
 
 ## Recent Employment
 
@@ -8,12 +8,12 @@ Ambitious junior web developer of two years experience. Currently I am employed 
 
 *Junior Web Developer* 
 
-- Junior web developer at a startup company delivering reward based and financial crowdfunding solutions for sports clubs
-- Full stack role, working with Ruby on Rails, BackboneJS, jQuery, Scss, PostgreSQL, Rspec, Capybara, CircleCI and Heroku
+- Junior web developer at a startup company delivering reward based campaigns and investment raises for sports clubs
+- Full stack role, working with Ruby on Rails, BackboneJS, ES6, jQuery, Scss, PostgreSQL, Rspec, Capybara, CircleCI and Heroku
 - Following best practices: TDD, Git, CI, linting (rubocop, jslint), Google Page Speed Insights
 - Working closely with the CTO or independently on maintaining the website, improving design and performance, fixing bugs and building new features
-- Built major features including an admin interface, payment forms, investment payment forms and investor certification
-- Platform has generated more than £1.5m in crowdfunding using payment and investment features I have created during my employment
+- Built major features including an admin interface, payment forms, investor certification and certificates
+- Platform has generated close to £10m in investments and crowdfunding using features I have built during my employment
 
 **Mandarin Oriental Hotel Group, London, UK** (10/13 to 04/15) 
 
